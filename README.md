@@ -5,19 +5,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyad20210197" alt="eyad20210197" /></a> </p>
 
 -what I Can do to your site:
-🎨 Design
-📈 Upgrade
-😎 Maintain
+-🎨 Design
+-📈 Upgrade
+-😎 Maintain
 
 -Skills
-🧠 Problem Solving
-🏃‍♂️ Fast Learner
-🧑🏻‍🤝‍🧑🏻 Team Work
+-🧠 Problem Solving
+-🏃‍♂️ Fast Learner
+-🧑🏻‍🤝‍🧑🏻 Team Work
 
 -Hobbies
-🚘 Modifing Cars
-⚽ Visca Barca
-🎮 Playing O-Games
+-🚘 Modifing Cars
+-⚽ Visca Barca
+-🎮 Playing O-Games
 
 
 - 📫 How to reach me **aboelftoheyad@gmail.com**
