@@ -7,20 +7,21 @@
 <p><img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=eyad20210197&" alt="eyad20210197" /></p> 
 <p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=eyad20210197&show_icons=true&locale=en" alt="eyad20210197" /></p>
 
--what I Can do to your site:
+-what I Can do to your site: <br>
 -🎨 Design <br>
 -📈 Upgrade <br>
 -😎 Maintain <br>
 
--Skills
+-Skills <br>
 -🧠 Problem Solving <br>
 -🏃‍♂️ Fast Learner <br>
 -🧑🏻‍🤝‍🧑🏻 Team Work <br>
 
--Hobbies
+-Hobbies <br>
 -🚘 Modifing Cars <br>
 -⚽ Visca Barca <br>
 -🎮 Playing O-Games <br>
+
 
 
 - 📫 How to reach me **aboelftoheyad@gmail.com**
