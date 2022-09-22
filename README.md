@@ -1,23 +1,24 @@
 <h1 align="center">I don't think we've met (before)🤔 I'm Eyad Aboelftoh</h1>
 <h3 align="center">I'm a Full Stack developer🧑‍💻(soon)</h3>
-<img align="left" alt="Coding" width"400" src"https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" width="400" src"https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyad20210197" alt="eyad20210197" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyad20210197" alt="eyad20210197" /></a> </p>
+
 
 -what I Can do to your site:
--🎨 Design
--📈 Upgrade
--😎 Maintain
+-🎨 Design <br>
+-📈 Upgrade <br>
+-😎 Maintain <br>
 
 -Skills
--🧠 Problem Solving
--🏃‍♂️ Fast Learner
--🧑🏻‍🤝‍🧑🏻 Team Work
+-🧠 Problem Solving <br>
+-🏃‍♂️ Fast Learner <br>
+-🧑🏻‍🤝‍🧑🏻 Team Work <br>
 
 -Hobbies
--🚘 Modifing Cars
--⚽ Visca Barca
--🎮 Playing O-Games
+-🚘 Modifing Cars <br>
+-⚽ Visca Barca <br>
+-🎮 Playing O-Games <br>
 
 
 - 📫 How to reach me **aboelftoheyad@gmail.com**
