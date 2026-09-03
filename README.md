@@ -28,4 +28,4 @@ MongoDB, Docker, and Linux**.
 
 ### Connect
 
-[LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO)
+[LinkedIn](https://linkedin.com/in/eyad-aboelftoh) · [Portfolio](https://drive.google.com/drive/folders/1iAlBG62AD0MfenYx8s4ti88B78T1ysbR)
